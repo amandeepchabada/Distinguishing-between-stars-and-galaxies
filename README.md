@@ -1,4 +1,4 @@
-# Stars-vs-Galaxies
+# Distinguishing between stars and galaxies
 
 Comparing different methods to deal with missing values and to determine which one was the most effective in helping us distinguish between stars and galaxies
 
